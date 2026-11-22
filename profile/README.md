@@ -6,9 +6,11 @@
   </picture>
 </p>
 
-セキュリティや運用の制約がある業務現場に向けて、ローカル完結・軽量設計のソフトウェアを開発する独立系ソフトウェアスタジオです。
+**Still at the core. Sharp in craft.**
+Software built with craftsmanship and integrity.
 
-> An independent software studio building local-first, lightweight software for operational environments with strict security and operational constraints.
+誰でも速く、大量にソフトウェアを生み出せる時代になったからこそ、私たちは品質に妥協しないものづくりを選びます。
+つくるものにも、使う人にも誠実であること。StillQuartz は、長く使い続けられる道具をつくる独立スタジオです。
 
 - **Web**: [stillquartz.com](https://stillquartz.com/)
 - **X**: [@stillquartz](https://x.com/stillquartz)
