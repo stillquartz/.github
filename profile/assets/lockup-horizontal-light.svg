@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 48" width="228" height="48" fill="none" role="img" aria-label="StillQuartz">
+  <g transform="translate(8, 6) scale(1.125)" fill="#111111">
+  <path d="M10.0 2.6 L16.6 10.2 L15.2 21.4 L8.0 21.4 L4.8 11.2 Z" />
+  <path d="M24.4 8.2 L27.2 14.4 L23.2 21.4 L18.0 21.4 L19.6 12.8 Z" />
+  <path d="M4.8 24.6 H27.2 V28.4 H4.8 Z" />
+  </g>
+  <text x="58" y="34.5" fill="#111111" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="-0.7">StillQuartz</text>
+</svg>
